@@ -1,0 +1,1 @@
+{"detection_threshold": 0.75, "scan_interval_min_ms": 90, "scan_interval_max_ms": 130, "capture_region": "fullscreen"}
